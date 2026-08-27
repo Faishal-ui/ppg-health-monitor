@@ -1,6 +1,6 @@
 # ESP32 PPG Health Monitoring System (MAX30102 & Web App)
 
-Sistem akuisisi data sinyal *Photoplethysmogram* (PPG) deterministik berbasis **ESP32** dan sensor optik **MAX30102** dengan arsitektur **FreeRTOS Dual-Core**, pengiriman data stream ke **Raspberry Pi 5** via UART, serta visualisasi sinyal real-time melalui **Web Application (WebSocket)**.
+Sistem akuisisi data sinyal *Photoplethysmogram* (PPG) berbasis **ESP32** dan sensor optik **MAX30102** dengan arsitektur **FreeRTOS Dual-Core**, pengiriman data stream ke **Raspberry Pi 5** via UART, serta visualisasi sinyal real-time melalui **Web Application (WebSocket)**.
 
 ---
 
